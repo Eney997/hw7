@@ -33,7 +33,7 @@ body {
     
 }
 .victorimg {
-    position: fixed;
+    position: absolute;
     width: 96px;
     height: 96px;
     margin-top: 92px;
@@ -69,7 +69,7 @@ h3 {
     margin-top:25px;
 }
 .nums {
-    position: fixed;
+    position: absolute;
     
 }
 .nums {
@@ -114,5 +114,3 @@ h3 {
     margin-top: 8px;
     margin-right:20px;
 }
-
-
